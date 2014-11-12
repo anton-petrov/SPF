@@ -1,6 +1,7 @@
 /*
  * 
- Author: Anton Petrov, 2005-2014.
+ * Dijkstra's algorithm GUI
+ * Author: Anton Petrov, 2005-2014.
  * 
  */
 
