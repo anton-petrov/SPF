@@ -18,8 +18,6 @@ namespace SPF
 	/// <summary>
 	/// GUI for SPF algorithm
 	/// </summary>
-	/// 
-
 	class Sound
 	{
 		[DllImport("winmm")]
